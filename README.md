@@ -1,4 +1,4 @@
-Visit the application - [Car Hub]([https://nextjs.org](https://car-showcase-tau-hazel.vercel.app/)/)
+Visit the application - [Car Hub](https://car-showcase-tau-hazel.vercel.app/)
 
 ## Getting Started
 
